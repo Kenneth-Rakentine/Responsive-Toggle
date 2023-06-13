@@ -1,0 +1,116 @@
+
+.containerOne{
+    box-shadow: 4px 6px 9px black;
+    margin-right:40px;
+}
+
+.swap{
+    box-shadow: 4px 6px 9px black;
+    
+}
+
+.swap:hover{
+    background-color:rgb(206, 108, 108);
+}
+
+.treeBkg{
+    background-image: url('https://media4.giphy.com/media/3o85xJY1FaLzqeoBGw/giphy.gif')
+}
+
+.containerTwo{
+    height:70px;
+    display:flex;
+    justify-content:center;
+    box-shadow: 4px 6px 9px black;
+    margin-right:40px;
+}
+
+.txt{
+    font-size:24px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.blued{
+    color:blue;
+}
+
+.changeColor{
+    box-shadow: 4px 6px 9px rgb(116, 75, 75);
+}
+
+.changeColor:hover{
+   background-color:rgb(160, 160, 175);
+}
+
+.Hide{
+ display:flex;
+ justify-content:center;
+ height:200px;
+ box-shadow: 4px 6px 9px black;
+ margin-right:40px;
+}
+
+.vanish{
+
+}
+
+.disappear{
+    display:none;
+}
+
+.hidden{
+    box-shadow: 4px 6px 9px black;
+}
+
+.hidden:hover{
+    background-color:rgb(141, 153, 99);
+}
+
+.resizeImg{
+height:200px;
+box-shadow: 4px 6px 9px black;
+ margin-right:40px;
+}
+
+.splode{
+height:200px;
+}
+
+.massive{
+    width:600px;
+    }
+
+    .big{
+        box-shadow: 4px 6px 9px black;
+    }
+
+.big:hover{
+    background-color:rgb(164, 212, 196);
+}
+
+.containerFive{
+    display:flex;
+    justify-content:center;
+height:100px;
+box-shadow: 4px 6px 9px black;
+ margin-right:40px;
+}
+
+.hugeTxt{
+font-size:24px;
+
+}
+
+.grow{
+    box-shadow: 4px 6px 9px black;
+
+}
+
+.grow:hover{
+    background-color:rgb(206, 166, 206);
+}
+
+.evenBigger{
+    font-size:44px;
+
+}
